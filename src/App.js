@@ -1,10 +1,12 @@
 import './App.css';
 import Navbar from './components/Navbar'
+import ImageList from './components/ImageList'
 
 function App() {
   return (
     <>
       <Navbar/>
+      <ImageList/>
     </>
   );
 }
